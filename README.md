@@ -44,5 +44,3 @@
 - Enjoy changing and modding your autoexecs!
 - Each time you want to update your repository run the python grabber script which will copy your files to the repo.
 - Realise you could have used symlinks.
-- Cry because you wasted half an hour writing a python script.
-- Stop crying because you realised you finally learnt how to use shutil.
