@@ -28,8 +28,8 @@
 [![L4D2 autoexec showcase video](https://img.youtube.com/vi/O6OQ100bRKM/maxresdefault.jpg)](https://youtu.be/O6OQ100bRKM)
 
 
-> [!IMPORTANT]  For CS2:
-> Make sure you use the launch arguments `+exec csafap/main -testscript "../../csgo/cfg/csafap/addons/.vtest"`.
+> [!IMPORTANT]
+> For CS2: use launch arguments `+exec csafap/main -testscript "../../csgo/cfg/csafap/addons/.vtest"`.
 
 ## VALVE GAMES ONLY - usage
 ### installing
